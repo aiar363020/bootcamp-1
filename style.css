@@ -11,3 +11,18 @@
     box-sizing: border-box;
     border-radius: 33px;
 }
+
+.aiai{
+    width:450px;
+    height: 280px;
+    background-color: blueviolet;
+    margin: auto;
+    text-align: center;
+
+}
+.aiai-hover{
+    width: 150px;
+    height: 400px;
+    margin:250px;
+    background-color: black;
+}
