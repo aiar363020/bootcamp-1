@@ -4,3 +4,10 @@
     background-color: brown;
 
 }
+.box{
+    width: 200px;
+    height: 185px;
+    color: cadetblue;
+    box-sizing: border-box;
+    border-radius: 33px;
+}
